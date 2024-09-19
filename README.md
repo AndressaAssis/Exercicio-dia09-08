@@ -36,7 +36,7 @@ Os exercícios apresentados neste projeto abordam uma variedade de problemas de 
 - **Lógica:** 
   - Calcula o valor final usando a fórmula de juros compostos.
 
-### Exercício 3: Juros Simples
+### Exercício 2.1: Juros Simples
 
 - **Descrição:** Calcula o valor final de um depósito em poupança após um determinado número de meses, aplicando juros simples de 5% ao mês.
 - **Entrada:** 
@@ -47,7 +47,7 @@ Os exercícios apresentados neste projeto abordam uma variedade de problemas de 
 - **Lógica:** 
   - Calcula o valor final usando a fórmula de juros simples.
 
-### Exercício 4: Quociente e Resto
+### Exercício 3: Quociente e Resto
 
 - **Descrição:** Recebe um valor numérico inteiro e calcula o quociente e o resto da divisão desse número por 3.
 - **Entrada:** 
@@ -57,7 +57,7 @@ Os exercícios apresentados neste projeto abordam uma variedade de problemas de 
 - **Lógica:** 
   - Utiliza operações de divisão para encontrar o quociente e o resto.
 
-### Exercício 5: Consumo de Alimento
+### Exercício 4: Consumo de Alimento
 
 - **Descrição:** Calcula quantos dias durará uma quantidade de alimento em quilos para uma pessoa que consome 50 gramas por dia.
 - **Entrada:** 
@@ -67,7 +67,7 @@ Os exercícios apresentados neste projeto abordam uma variedade de problemas de 
 - **Lógica:** 
   - Converte a quantidade de alimento de quilos para gramas e divide pelo consumo diário.
 
-### Exercício 6: Reprovação de Alunos
+### Exercício 5: Reprovação de Alunos
 
 - **Descrição:** Calcula o número de alunos reprovados em duas turmas (C e D) e a porcentagem total de reprovação.
 - **Entrada:** 
@@ -79,7 +79,7 @@ Os exercícios apresentados neste projeto abordam uma variedade de problemas de 
 - **Lógica:** 
   - Utiliza percentuais para calcular o número de alunos reprovados.
 
-### Exercício 7: Rendimento do Carro
+### Exercício 6: Rendimento do Carro
 
 - **Descrição:** Calcula a média de consumo em Km/L de um carro e o lucro líquido do dia de um taxista com base em valores fornecidos.
 - **Entrada:** 
@@ -92,7 +92,7 @@ Os exercícios apresentados neste projeto abordam uma variedade de problemas de 
 - **Lógica:** 
   - Calcula a média de consumo e o lucro líquido subtraindo o custo do combustível do valor recebido.
 
-### Exercício 8: Conversão de Temperatura
+### Exercício 7: Conversão de Temperatura
 
 - **Descrição:** Converte uma temperatura de Celsius para Fahrenheit.
 - **Entrada:** 
